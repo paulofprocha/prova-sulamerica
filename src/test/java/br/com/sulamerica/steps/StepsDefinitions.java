@@ -1,13 +1,13 @@
-package steps;
+package br.com.sulamerica.steps;
 
-import common.BasePage;
+import br.com.sulamerica.common.BasePage;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import pages.CadastroPage;
-import pages.LoginPage;
+import br.com.sulamerica.pages.CadastroPage;
+import br.com.sulamerica.pages.LoginPage;
 
 public class StepsDefinitions {
 

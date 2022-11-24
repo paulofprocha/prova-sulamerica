@@ -1,6 +1,6 @@
-package pages;
+package br.com.sulamerica.pages;
 
-import common.BasePage;
+import br.com.sulamerica.common.BasePage;
 import org.openqa.selenium.By;
 
 import java.time.Duration;
